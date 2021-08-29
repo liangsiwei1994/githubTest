@@ -9,6 +9,7 @@ Created on Mon Aug  9 16:23:46 2021
 #PART 1 OF 4
 #(RUN FROM PART 1 TO PREVENT ANY ERROR DUE TO DATABASE CREATION)
 #REMEMBER TO CLEAR DATABASE AFTER RUNNING ALL SEQUENCE
+#Adding additional line to test for github
 
 import mysql.connector, sys, pandas as pd
 from datetime import datetime
